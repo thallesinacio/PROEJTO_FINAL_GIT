@@ -1,1 +1,7 @@
 # PROEJTO_FINAL_GIT
+
+
+AUNO: Thalles Inácio Araújo
+
+
+MATRÍCULA: tic370101531
