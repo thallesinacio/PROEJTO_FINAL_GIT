@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/FINAL_PROJECT.uf2'
+elf = 'build/FINAL_PROJECT.elf'
